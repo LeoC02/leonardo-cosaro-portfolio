@@ -28,7 +28,7 @@ export default async function handler(req, res) {
     // Send email
     const data = await resend.emails.send({
       from: 'Portfolio Contact <onboarding@resend.dev>',
-      to: 'cosaroleoo@gmail.com',
+      to: 'leonardocosarodev@gmail.com',
       replyTo: email,
       subject: `Nuovo messaggio da ${name} - Portfolio`,
       html: `
