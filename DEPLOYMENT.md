@@ -39,7 +39,7 @@ Aggiungi la variabile d'ambiente su Vercel:
 vercel env add RESEND_API_KEY production
 ```
 
-Quando richiesto, incolla: `re_e9XmKio9_HKFWHNQUUzHSCpxnK2uUVP8w`
+Quando richiesto, incolla la tua API key Resend
 
 ### Deploy in Produzione
 
@@ -104,7 +104,7 @@ netlify deploy --prod
 6. **Aggiungi la variabile d'ambiente**
    - Vai su Netlify Dashboard
    - Site settings → Environment variables
-   - Aggiungi `RESEND_API_KEY` con il valore `re_e9XmKio9_HKFWHNQUUzHSCpxnK2uUVP8w`
+   - Aggiungi `RESEND_API_KEY` con la tua API key Resend (ottienila da https://resend.com/api-keys)
 
 ---
 

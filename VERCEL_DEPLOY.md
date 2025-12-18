@@ -27,7 +27,7 @@ Vercel rileverà automaticamente Vite. Lascia le impostazioni di default:
 1. Espandi "Environment Variables"
 2. Aggiungi questa variabile:
    - **Name**: `RESEND_API_KEY`
-   - **Value**: `re_e9XmKio9_HKFWHNQUUzHSCpxnK2uUVP8w`
+   - **Value**: La tua API key Resend (ottienila da https://resend.com/api-keys)
    - **Environment**: Production (e anche Preview se vuoi)
 
 ### Step 5: Deploy!
@@ -59,7 +59,7 @@ Quando richiesto:
 Poi aggiungi la variabile d'ambiente:
 ```bash
 vercel env add RESEND_API_KEY production
-# Incolla: re_e9XmKio9_HKFWHNQUUzHSCpxnK2uUVP8w
+# Incolla la tua API key Resend (ottienila da https://resend.com/api-keys)
 ```
 
 E fai un nuovo deploy:

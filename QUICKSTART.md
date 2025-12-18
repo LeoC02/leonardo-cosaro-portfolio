@@ -125,7 +125,7 @@ Per funzionare in produzione, devi aggiungerla su Vercel:
 vercel env add RESEND_API_KEY production
 ```
 
-Quando richiesto, incolla: `re_e9XmKio9_HKFWHNQUUzHSCpxnK2uUVP8w`
+Quando richiesto, incolla la tua API key Resend (ottienila da https://resend.com/api-keys)
 
 Oppure aggiungila dalla dashboard:
 1. Vai su [vercel.com/dashboard](https://vercel.com/dashboard)
