@@ -49,7 +49,7 @@ Progetti di Leonardo:
 Leonardo segue i progetti in ogni fase: analisi, progettazione, sviluppo, test, rilascio e supporto.
 
 Contatti:
-- Email: cosaroleoo@gmail.com
+- Email: leonardocosarodev@gmail.com
 - Location: Italia
 - GitHub e LinkedIn disponibili sul sito
 

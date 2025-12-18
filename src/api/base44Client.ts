@@ -11,7 +11,7 @@ const mockLLMResponse = async (prompt: string): Promise<string> => {
 
   await new Promise(resolve => setTimeout(resolve, 1000)); // Simulate network delay
 
-  return "Ciao! Grazie per il tuo messaggio. Leonardo è un backend developer specializzato in Python con esperienza in Django, FastAPI e PostgreSQL. Per informazioni dettagliate sui suoi progetti o per discutere una collaborazione, ti consiglio di contattarlo direttamente via email a cosaroleoo@gmail.com.";
+  return "Ciao! Grazie per il tuo messaggio. Leonardo è un backend developer specializzato in Python con esperienza in Django, FastAPI e PostgreSQL. Per informazioni dettagliate sui suoi progetti o per discutere una collaborazione, ti consiglio di contattarlo direttamente via email a leonardocosarodev@gmail.com.";
 };
 
 export const base44 = {

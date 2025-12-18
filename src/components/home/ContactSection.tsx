@@ -7,7 +7,7 @@ import { Button } from '@/components/ui/button';
 import { Mail, MapPin, Phone, Github, Linkedin, Send, CheckCircle, AlertCircle, Loader2 } from 'lucide-react';
 
 const contactInfo = [
-  { icon: Mail, label: 'Email', value: 'cosaroleoo@gmail.com' },
+  { icon: Mail, label: 'Email', value: 'leonardocosarodev@gmail.com' },
   { icon: MapPin, label: 'Location', value: 'Italia' },
 ];
 
